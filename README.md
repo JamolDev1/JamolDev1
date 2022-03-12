@@ -52,14 +52,13 @@ reach me xjamoliddin27@gmail.com -->
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![C#](https://img.shields.io/badge/-Csharp-0D1117?style=for-the-badge&logo=csharp&labelColor=0D1117)&nbsp;
 ![C++](https://img.shields.io/badge/-C++-0D1117?style=for-the-badge&logo=cplusplus&labelColor=0D1117)&nbsp;
+![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python&labelColor=0D1117)&nbsp;
 
 ### Tools:
 
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC&labelColor=0D1117)&nbsp;
-![Gitlab](https://img.shields.io/badge/-Gitlab-0D1117?style=for-the-badge&logo=gitlab&labelColor=0D1117)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
 ![Photoshop](https://img.shields.io/badge/-Photoshop-0D1117?style=for-the-badge&logo=adobe-photoshop&labelColor=0D1117)&nbsp;
-![Premiere Pro](https://img.shields.io/badge/-Premiere%20Pro-0D1117?style=for-the-badge&logo=adobepremierepro&labelColor=0D1117)&nbsp;
 ![Windows](https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&labelColor=0D1117)&nbsp;
 ![Mac](https://img.shields.io/badge/-MacOs-0D1117?style=for-the-badge&logo=macos&labelColor=0D1117)&nbsp;
 ![Linux](https://img.shields.io/badge/-linux-0D1117?style=for-the-badge&logo=linux&labelColor=0D1117)&nbsp;
